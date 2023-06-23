@@ -15,6 +15,7 @@ public class StringListImpl implements StringList {
         this.size = size;
         arrayString = new String[size];
         counter = 0;
+
     }
 
     @Override
