@@ -7,6 +7,7 @@ public class IndexIsTakenException extends RuntimeException{
         super();
     }
 
+
     public IndexIsTakenException(String message) {
         super(message);
     }
